@@ -1,2 +1,2 @@
 # CS39AA-Project
-In order to open the notebook in kaggle, open 39aa-project.ipynb and click on the "Open in Kaggle" button.
+In order to open a notebook in kaggle, select one in the repository and click on the "Open in Kaggle" button on the top of the notebook.
